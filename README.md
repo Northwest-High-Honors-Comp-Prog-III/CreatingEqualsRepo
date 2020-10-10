@@ -12,15 +12,27 @@ Once completed, create the tester class where you will prompt the user for infor
 Sample Output
 
 Please enter the Person's name: Tanner
+
 Please enter the Person's birthday: 5/4/2005
+
 Please enter the Student's name: Tanner
+
 Please enter the Student's birthday: 5/4/2005
+
 Please enter the Student's grade: 12
+
 Same: true
 
+
+
 Please enter the Person's name: Tanner
+
 Please enter the Person's birthday: 5/4/2005
+
 Please enter the Student's name: Angela
+
 Please enter the Student's birthday: 5/4/2005
+
 Please enter the Student's grade: 12
+
 Same: false
